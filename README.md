@@ -1,26 +1,6 @@
-\# Unit 1 Comprehensive
+***Git Workflow***
 
 
 
-**Project Description**
-
-
-
-This repository demonstrates the basic concepts and workflow of Git and GitHub.
-
-
-
-**Objectives**
-
-
-
-\- Learn Git commands
-
-\- Manage files using Git
-
-\- Create and merge branches
-
-\- Understand GitHub collaboration
-
-\- Practice commits, pull requests, fetch, and pull
+The project demonstrates repository initialization, commits, branching, merging, staging, and GitHub collaboration.
 
