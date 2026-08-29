@@ -1,1 +1,1 @@
-Git is a version control system.
+Git helps developers track changes and collaborate.
