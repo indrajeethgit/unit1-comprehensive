@@ -1,1 +1,2 @@
-Git helps developers track changes and collaborate.
+Git supports branching.
+Git supports distributed collaboration.
